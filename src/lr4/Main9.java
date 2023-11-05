@@ -58,8 +58,8 @@ public class Main9 {
                     textArray[i] = newChar;
                 }
                 System.out.print("Текст до преобразования: ");
-                String old = new String(textArray);
-                System.out.print(old);
+                String oldText = new String(textArray);
+                System.out.print(oldText);
                 break;
             } else if (answer.equals("n")) {
                 System.out.print("До свидания!");

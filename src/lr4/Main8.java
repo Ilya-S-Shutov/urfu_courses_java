@@ -22,9 +22,8 @@ public class Main8 {
         }
 
         System.out.print("Текст после преобразования: ");
-        for (char sym : textArray) {
-            System.out.print(sym);
-        }
+        String newText = new String(textArray);
+        System.out.print(newText);
 
         System.out.print("\nВыполнить обратное преобразование (y/n)? ");
         while (true) {
