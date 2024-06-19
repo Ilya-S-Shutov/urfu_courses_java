@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<LessonsList>
+    <lesson>
+        <title>Math</title>
+        <teacher>Ivan Ivanov</teacher>
+    </lesson>
+    <lesson>
+        <title>Java dev</title>
+        <teacher>Nikolay Arkhipov</teacher>
+    </lesson>
+    <lesson>
+        <title>English</title>
+        <teacher>Pyotr Petrov</teacher>
+    </lesson>
+</LessonsList>
